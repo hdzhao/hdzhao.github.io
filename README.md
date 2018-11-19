@@ -1,16 +1,5 @@
 # personalpage
 
-www.ece.neu.edu/~hdzhao/
-
-Strata by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A simple, minimalist template that actually began life as an unused redesign of n33.co
-(my personal site). Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
-
 
 Credits:
 

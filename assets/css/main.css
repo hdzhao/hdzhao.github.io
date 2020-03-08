@@ -2282,11 +2282,11 @@
 		}
 
 		table thead {
-			border-bottom: solid 2px #efefef;
+			border-bottom: solid 2px #ffffff;
 		}
 
 		table tfoot {
-			border-top: solid 2px #efefef;
+			border-top: solid 2px #ffffff;
 		}
 
 		table.alt {
@@ -2294,7 +2294,7 @@
 		}
 
 			table.alt tbody tr td {
-				border: solid 2px #efefef;
+				border: solid 2px #ffffff;
 				border-left-width: 0;
 				border-top-width: 0;
 			}
